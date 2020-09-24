@@ -1,0 +1,5 @@
+F:\_Source\_c#\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.csprojResolveAssemblyReference.cache
+F:\_Source\_c#\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.MainWindow.resources
+F:\_Source\_c#\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.Properties.Resources.resources
+F:\_Source\_c#\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.csproj.GenerateResource.Cache
+F:\_Source\_c#\FingerTracking\FingerTracking\obj\x86\Debug\FingerTracking.csprojFakesResolveAssemblyReference.cache
